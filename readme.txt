@@ -21,5 +21,5 @@
 # }
 # for sh: flake8: not found
 # {
-#     docker-compose build
+#     docker-compose up --build
 # }
