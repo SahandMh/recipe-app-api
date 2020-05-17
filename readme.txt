@@ -14,3 +14,12 @@
 #
 #     docker-compose run app
 # }
+#
+# to run tests =>
+# {
+#     docker-compose run app sh -c "python manage.py test"
+# }
+# for sh: flake8: not found
+# {
+#     docker-compose build
+# }
